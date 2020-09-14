@@ -4,7 +4,7 @@
 
 
 
-## 系统概况：
+## 系统概况
 
 ![功能架构](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D%E7%BB%98%E5%9B%BE2.jpg)
 
@@ -24,7 +24,7 @@
 
 
 
-## 业务流程示意：
+## 业务流程示意
 
 ![业务流程图](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200910180302.png)
 
