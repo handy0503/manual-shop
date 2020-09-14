@@ -11,7 +11,7 @@
   * [权限设置](she-zhi/quan-xian-she-zhi.md)
   * [商城设置](she-zhi/shang-cheng-she-zhi.md)
   * [运费设置](she-zhi/yun-fei-she-zhi.md)
-  * [轮播图管理](ling-shou-ye-wu-toc/lun-bo-tu-guan-li.md)
+  * [轮播图管理](she-zhi/lun-bo-tu-guan-li.md)
 * [常见问题](faq.md)
 
 ## 链接
