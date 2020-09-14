@@ -4,9 +4,7 @@
 
 在资金-账户概况页面可以查看到当前商城的基本财务信息。
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912142541.png)
-
-**名词说明：**
+![账户概况](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912142541.png)
 
 **账户总览**
 
@@ -50,7 +48,7 @@ H5订单收入：指全部订单收入中来自H5端的订单收入。
 
 在资金-财务对账单页面可以查看到每一日的财务收支概况和累计笔数，点击流水明细或分润明细可查看对应日期的流水或分润。
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912141946.png)
+![对账单](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912141946.png)
 
 
 
@@ -58,4 +56,4 @@ H5订单收入：指全部订单收入中来自H5端的订单收入。
 
 商城所有的收支流水明细，以及对应被一笔收入或支出的详细信息，包括时间、金额、类型、来源、支付单号、订单号等。
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912142026.png)
+![资金流水](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200912142026.png)

@@ -6,7 +6,7 @@
 
 ## 系统概况：
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D%E7%BB%98%E5%9B%BE2.jpg)
+![功能架构](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D%E7%BB%98%E5%9B%BE2.jpg)
 
 **商品管理：**商城所有售卖的商品均在该模块中进行管理，可以对其进行定价、上下架、排序等操作。
 
@@ -26,7 +26,7 @@
 
 ## 业务流程示意：
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200910180302.png)
+![业务流程图](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200910180302.png)
 
 **①定义、发行**：商家首先在数字工厂内将商品定义成一个可在区块链上流通的数字信息，定义成功后将其发行成一定数量的数字凭证，这些凭证即代表了该商品在区块链上的库存信息，一张数字凭证代表了一个商品库存，当商品数量不足时就需要在此进行补充发行。
 

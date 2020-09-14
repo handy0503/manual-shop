@@ -6,7 +6,7 @@
 
 前往设置-运费设置界面，输入运费价格，点击保存即可成功设置运费。
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200911114350.png)
+![运费设置](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200911114350.png)
 
 #### **注：**
 
